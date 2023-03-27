@@ -28,6 +28,7 @@ public class Main {
         System.out.println("число : "+r);
         System.out.println("округлене число : "+ vi);
         System.out.println();
+        System.out.println();
 
     }
 }
